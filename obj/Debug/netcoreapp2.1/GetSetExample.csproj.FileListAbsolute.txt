@@ -1,0 +1,11 @@
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\bin\Debug\netcoreapp2.1\GetSetExample.deps.json
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\bin\Debug\netcoreapp2.1\GetSetExample.runtimeconfig.json
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\bin\Debug\netcoreapp2.1\GetSetExample.runtimeconfig.dev.json
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\bin\Debug\netcoreapp2.1\GetSetExample.dll
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\bin\Debug\netcoreapp2.1\GetSetExample.pdb
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.csprojAssemblyReference.cache
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.csproj.CoreCompileInputs.cache
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.AssemblyInfoInputs.cache
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.AssemblyInfo.cs
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.dll
+C:\Users\Windows'10\source\repos\GetSetExample\GetSetExample\obj\Debug\netcoreapp2.1\GetSetExample.pdb
